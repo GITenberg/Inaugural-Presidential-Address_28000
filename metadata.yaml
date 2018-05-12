@@ -1,0 +1,27 @@
+_repo: Inaugural-Presidential-Address_28000
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Obama, Barack
+    alias: Obama, Barack Hussein, II
+    birthdate: 1961
+    gutenberg_agent_id: '32943'
+    url: http://www.gutenberg.org/2009/agents/32943
+description: ''
+gutenberg_issued: '2009-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28000'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Obama, Barack, 1961- -- Inauguration, 2009'
+- !lcsh 'Presidents -- United States -- Inaugural addresses'
+- !lcc 'E895'
+title: Inaugural Presidential Address
+url: http://www.gutenberg.org/ebooks/28000
